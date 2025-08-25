@@ -1,4 +1,4 @@
-# Student-Behavior-Detection-System
+# Student-Behaviors-Detection-System
 the model is built on (YOLOv8n) and trained on SCB dataset:
 https://universe.roboflow.com/studentactivity/scb-dataset-3
 
@@ -6,7 +6,7 @@ model will classify student behaviors into three classes: reading, writing, and 
 
 **Before training:**
 <img width="963" height="376" alt="image" src="https://github.com/user-attachments/assets/7b02ec14-1d00-4f84-bb03-1ad1eef994c2" />
-
+---
 **After training:**
 <img width="974" height="381" alt="image" src="https://github.com/user-attachments/assets/3263979b-ed93-4eb2-a6de-b4da316d3349" />
 
