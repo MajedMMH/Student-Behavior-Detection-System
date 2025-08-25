@@ -1,5 +1,6 @@
 # Student-Behavior-Detection-System
 the model is built on (YOLOv8n) and trained on this dataset: https://universe.roboflow.com/studentactivity/scb-dataset-3
+
 model will classify student behaviors into three classes: reading, writing, and hand-raising.
 
 **Before training:**
